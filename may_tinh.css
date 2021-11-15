@@ -20,7 +20,7 @@ body{
     width:320px;
     height:var(--cal-height);
     background-color: rgba(0, 0, 0, 0.6);   
-    top:50px;
+    top:100px;
     margin:0 auto;
     position:relative;
     border-radius: 25px;
